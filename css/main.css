@@ -1,5 +1,6 @@
 h1 {
 <<<<<<< HEAD
+<<<<<<< HEAD
   font: 50px glacial indifference; 
   color: green;
 }
@@ -10,6 +11,9 @@ h2 {
 body { 
 color: grey;
   font: 14px raleway;
+=======
+    color: red;
+>>>>>>> origin/master
 =======
     color: red;
 >>>>>>> origin/master
