@@ -5,7 +5,7 @@ button {
 	color: white;
 	background-color: #A82A3B;
 	padding: 10px;
-	
+	align: center;
 }
 section {
 	display: flex;
@@ -69,4 +69,7 @@ h1 {
 	}
 	p {
 		font-size: 1em;
+}
+button {
+	align: center;
 }
